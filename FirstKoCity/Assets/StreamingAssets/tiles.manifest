@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 841242626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34832c3811035d241bbca60d9d2e7f7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 406a10c7c5076c8b0cc6a87ca77eed08
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleAsset/Tiles/TilesTexture/GrassTile1.asset
+- Assets/BundleAsset/Tiles/TilesTexture/GrassTile2.asset
+Dependencies: []
